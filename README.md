@@ -111,4 +111,4 @@ ecommerce-kpi-dashboard/
 
 Made by **[Abhishek Jain](https://github.com/abhishekjain2004)**  
 Aspiring Data Analyst | PG in Data Science & Analytics with Gen AI @ Imarticus Learning  
-📧 abhishek2004.jain@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+📧 abhishek2004.jain@gmail.com · [LinkedIn]www.linkedin.com/in/abhishek-jain-297014277
