@@ -68,11 +68,13 @@ To analyse transactional e-commerce data and build an interactive dashboard that
 
 ## 📸 Dashboard Preview
 
-> *(Add a screenshot of your Excel dashboard here)*
->
-> To add: In Excel, take a screenshot of your dashboard sheet → save as `dashboard.png` → place it in an `images/` folder in this repo
+![Dashboard Preview]<img width="1906" height="1015" alt="E-commerce KPIs dashboard" src="https://github.com/user-attachments/assets/a9bdaa00-6ac2-46df-ba5e-895e4fdb172f" />
 
-![Dashboard Preview](images/dashboard.png)
+<img width="1914" height="1017" alt="Visual_analysis(1)" src="https://github.com/user-attachments/assets/7bcc8944-f8e4-43a0-b56c-a3fdf96f18d0" />
+
+<img width="1917" height="1016" alt="Visual_analysis(2)" src="https://github.com/user-attachments/assets/66fd5dee-9b00-4c59-b216-8646b9f00eb6" />
+
+<img width="1920" height="1080" alt="Visual_analysis(3)" src="https://github.com/user-attachments/assets/48f88703-b39e-406b-b160-bc961a74cef0" />
 
 ---
 
